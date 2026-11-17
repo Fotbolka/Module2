@@ -1,0 +1,21 @@
+# Build outputs are generated locally; only sources and build rules belong in Git.
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+*.out
+.vscode/
+.DS_Store
+2/2.1/phonebook
+2/2.2/calculator
+2/2.3/calculator
+3/3.1/permissions
+3/3.2/network
+4/4.1/phonebook
+4/4.2/priority_queue
+4/4.3/phonebook
+6/6.1/phonebook
+6/6.2/phonebook
+6/6.3/calculator
